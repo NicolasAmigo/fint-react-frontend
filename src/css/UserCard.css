@@ -1,0 +1,44 @@
+.user_card{
+    align-items: center;
+    border-radius: 2.0rem !important;
+}
+
+.user_card_title{
+    text-align: center;
+    margin: 10px;
+    margin-bottom: 50px;
+    overflow: hidden;
+    font-size: 35px;
+}
+
+.boton_submit{
+    align-content: center;
+}
+
+.col-form-label{
+    font-size: 18px !important;
+    padding-bottom: 15px !important;
+}
+
+
+.user_card_btn_cancel{
+    margin-right: 10px;
+}
+
+.user_card_buttons{
+    padding: 10px;
+}
+
+.user_card_body{
+    overflow: hidden;
+}
+
+.user_card_form{
+    padding: 4px;
+}
+
+.pet_image{
+    width: 60% !important;
+}
+
+  

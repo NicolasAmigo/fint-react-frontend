@@ -1,0 +1,20 @@
+.match_buttons{
+    position:fixed;
+    bottom: 10vh;
+    width: 100%;
+    display: flex;
+    justify-content:center;
+    cursor: pointer;
+}
+
+.match_button_check{
+    color: green;
+    font-size: 8vh;
+    margin-left: 20px;
+}
+
+.match_button_cross{
+    color: red;   
+    font-size: 8vh;
+    margin-right: 20px;
+}
